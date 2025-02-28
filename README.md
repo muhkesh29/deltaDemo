@@ -1,2 +1,2 @@
 # deltaDemo
-1st repo under delta course
+1st repo under delta course.
